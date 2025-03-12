@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Music Concert",
+    "date": "2025-04-01",
+    "category": "Music"
+  },
+  {
+    "id": "2",
+    "name": "Tech Conference",
+    "date": "2025-04-05",
+    "category": "Tech"
+  },
+  {
+    "id": "3",
+    "name": "Sports Meet",
+    "date": "2025-04-10",
+    "category": "Sports"
+  }
+]
